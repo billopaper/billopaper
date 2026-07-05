@@ -73,6 +73,12 @@ Probably not. You could call it documentation, but naming it BilloPaper makes me
 Each BilloPaper lives as its own public repository.
 Check the **pinned repos** below 👇
 
+#01 source code not open due to sensitive information
+#03 https://github.com/billopaper/Agent_Instructions
+#03 https://github.com/billopaper/Cinemorph
+#04 comming soon
+
+
 ---
 
 <div align="center">
